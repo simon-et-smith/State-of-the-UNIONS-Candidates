@@ -14,5 +14,5 @@ Smith et al. 2026
 
 **link to arxiv/ads, when available**
 
-Four newly discovered satellites are presented here: UNIONS 2, UNIONS 3, Boötes VI, & Draco III. 
+Four newly discovered satellites are presented here: UNIONS 2, UNIONS 3, Boötes VI, & Draco III.  
 In the candidate lists where they are found, their names are demarcated with two asterisks (e.g. UNIONS 2**).
