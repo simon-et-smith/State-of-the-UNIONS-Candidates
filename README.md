@@ -16,3 +16,6 @@ Thus, for the $gr$ search in the NGC region, we have: gr_ngc.csv
 ## mcmc-chains
 
 An MCMC-based fitting routine (based on Martin et al. 2008, 2016) was used to obtain structural parameters for the stellar distribution of each system using an elliptical exponential model. The full chains resulting from the fitting routine can be found in the mcmc-chains directory for full reproducibiliy.
+
+Each file has dimensions (256000, 6) and each column corresponds to a different parameter in the order:  
+$x_0$, $y_0$, $r_h$, $e$, $\theta$, $N^*$
