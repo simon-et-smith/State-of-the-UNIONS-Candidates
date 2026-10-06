@@ -19,3 +19,5 @@ An MCMC-based fitting routine (based on Martin et al. 2008, 2016) was used to ob
 
 Each file has dimensions (256000, 6) and each column corresponds to a different parameter in the order:  
 $x_0$, $y_0$, $r_h$, $e$, $\theta$, $N^*$
+
+Note that $x_0$, $y_0$, $r_h$ are given in units of degrees in the chains.
