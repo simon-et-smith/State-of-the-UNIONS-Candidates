@@ -1,5 +1,10 @@
 # State-of-the-UNIONS-Candidates
-Storage location for data products relating to the paper "State of the UNIONS:Four Milky Way companions discovered in a systematic search for northern Local Group satellites", S.E.T. Smith et al. 2026
+Storage location for data products relating to the paper "State of the UNIONS: Four Milky Way companions discovered in a systematic search for northern Local Group satellites", S.E.T. Smith et al. 2026
+
+Four newly discovered satellites are presented here: UNIONS 2, UNIONS 3, Boötes VI, & Draco III.  
+In the candidate lists where they are found, their names are demarcated with two asterisks (e.g. UNIONS 2**).
+
+**link to arxiv/ads, when available**
 
 ## candidate-lists
 
@@ -11,8 +16,3 @@ Thus, for the $gr$ search in the NGC region, we have: gr_ngc.csv
 ## mcmc-chains
 
 An MCMC-based fitting routine (based on Martin et al. 2008, 2016) was used to obtain structural parameters for the stellar distribution of each system using an elliptical exponential model. The full chains resulting from the fitting routine can be found in the mcmc-chains directory for full reproducibiliy.
-
-**link to arxiv/ads, when available**
-
-Four newly discovered satellites are presented here: UNIONS 2, UNIONS 3, Boötes VI, & Draco III.  
-In the candidate lists where they are found, their names are demarcated with two asterisks (e.g. UNIONS 2**).
